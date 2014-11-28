@@ -43,3 +43,8 @@ body {background-color: #CCC;}
 .article:first-child {
     border-top:none;
 }
+.article a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
